@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I8vxtggyYyPPPzSckCnpnAFGf80HxLPxkbhCO2lucfNRbTJ7DQ+m9mZwf88M7Zp1Q6z0aqJWoq5DfnyboilAcA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspaces-ClassesandFunctions\\TestCode\\CivSem1Challenge2-RegistrationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
